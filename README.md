@@ -1,2 +1,2 @@
 # tnqt22.github.io
-My page
+My online resume
